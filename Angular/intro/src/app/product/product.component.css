@@ -1,0 +1,13 @@
+.productbox{
+    padding: 15px;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 200px; /* Resimlerin oranlarını koruyacak şekilde ayarlanması */
+    object-fit: cover; /* Resimleri keserek boyutlandırır */
+  }
+  
+  
+

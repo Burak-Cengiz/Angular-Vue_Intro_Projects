@@ -1,0 +1,30 @@
+<form #loginForm="ngForm" (ngSubmit)="login(loginForm)" class="form-signin">
+  <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+  <label for="inputEmail" class="sr-only">Kullanıcı Adı</label>
+  <input
+    type="text"
+    #userName="ngModel"
+    [(ngModel)]="model.userName"
+    id="userName"
+    name="userName"
+    class="form-control"
+    placeholder="Kullanıcı Adı"
+    required
+    autofocus
+  />
+  <label for="inputPassword" class="sr-only">Şifre</label>
+  <input
+    type="password"
+    #password="ngModel"
+    [(ngModel)]="model.password"
+    name="password"
+    id="password"
+    class="form-control"
+    placeholder="Şifre"
+    required
+  />
+  <button class="btn btn-lg btn-primary btn-block" type="submit">
+    Giriş
+  </button>
+  <p class="mt-5 mb-3 text-muted">&copy; 2024-2025</p>
+</form>

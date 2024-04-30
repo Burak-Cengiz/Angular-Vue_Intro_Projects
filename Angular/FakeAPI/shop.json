@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "assets/productImages/laptop.jfif"
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "assets/productImages/mouse.jfif"
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "assets/productImages/mouse.jfif"
+    },
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "assets/productImages/laptop.jfif"
+    },
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "assets/productImages/laptop.jfif"
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "assets/productImages/mouse.jfif"
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "assets/productImages/mouse.jfif"
+    },
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "assets/productImages/laptop.jfif"
+    },
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "assets/productImages/laptop.jfif"
+    },
+    {
+      "id": "ef86",
+      "name": "gitar",
+      "description": "Telli çalgı",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZAK0Wx3qWP9JJLambg25m5mqOl4GrQIZEiGdQ4oWnA&s",
+      "price": "50",
+      "categoryId": "2"
+    },
+    {
+      "id": "0a9f",
+      "name": "gitar",
+      "description": "Telli çalgı",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZAK0Wx3qWP9JJLambg25m5mqOl4GrQIZEiGdQ4oWnA&s",
+      "price": "50",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Bilgisayar"
+    },
+    {
+      "id": "2",
+      "name": "Müzik"
+    }
+  ]
+}
